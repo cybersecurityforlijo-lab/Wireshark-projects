@@ -79,6 +79,6 @@ In this project, you'll learn how to use Wireshark to capture and analyze HTTP t
 
 - Payload data from the HTTP response extracted and examined.
 
-## Conclusion
+## Conclusion - What I learned
 
-By completing these exercises, you have learned how to capture, filter, and analyze HTTP traffic using Wireshark. These skills are essential for understanding web communication, troubleshooting network issues, and performing security investigations.
+Captured and analyzed HTTP traffic using Wireshark. Identified HTTP GET requests, corresponding server responses, examined response codes, and inspected payload data. Observed how HTTP operates over TCP/IP and gained practical understanding of application-layer communication between a client and web server.
